@@ -1,4 +1,4 @@
-# Post #1
+# Meeting Notes 2022-06-28
 
 **Plan:** Reviewed the difference between a survey paper and original research and decided to try to conduct original research with a final goal of a publication.  
 

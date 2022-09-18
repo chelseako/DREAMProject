@@ -1,4 +1,6 @@
-# 1:1 Mentor Meeting July 20, 2022
+# 1:1 Mentor Meeting
+
+## Date: July 20, 2022
 
 **Notes**
 

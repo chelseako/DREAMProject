@@ -26,4 +26,4 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 ### Main Project Goal  
 
-Examine and identify the least invasive method to capture physiological sensor data to detect emotional arousal and evaluate counseling effectiveness.  
+Review recent literature to identify the least invasive and most accurate wearable sensors that measure physiological indicators that can be used to objectively monitor changes in mental and physical health and counseling effectiveness as well as best practices for data collection, cleaning, processing, and analysis.

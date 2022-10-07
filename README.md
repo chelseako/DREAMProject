@@ -12,7 +12,7 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 ## Research Advisor's Information  
 
-Dr. Sharief Oteafy  
+**Dr. Sharief Oteafy**  
 School of Computing  
 Computing and Digital Media at DePaul University
 

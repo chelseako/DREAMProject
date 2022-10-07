@@ -24,4 +24,4 @@ Computing and Digital Media at DePaul University
 
 ### Main Project Goal  
 
-Examine the use of machine learning techniques on datasets collected from wearable physiological sensors to identify the least invasive sensors that are most reliable in monitoring and predicting mental health and counseling outcomes as well as best practices for data collection, cleaning, and processing.
+Examine the use of machine learning techniques on datasets collected from wearable physiological sensors to identify the least invasive sensors that reliably collect the data needed to monitor and predict mental health and counseling outcomes as well as best practices for data collection, cleaning, and processing.

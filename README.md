@@ -12,11 +12,9 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 ## Research Advisor's Information  
 
-**Name:** Dr. Sharief Oteafy  
-
-**School:** DePaul University  
-
-**Department:** Jarvis College of Computing and Digital Media  
+Dr. Sharief Oteafy  
+School of Computing  
+Computing and Digital Media at DePaul University
 
 **Research Areas:** Telecommunication & Networking, Internet of Things, Tactile Internet  
 
@@ -26,4 +24,4 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 ### Main Project Goal  
 
-Review recent literature to identify the least invasive and most accurate wearable sensors that measure physiological indicators that can be used to objectively monitor changes in mental and physical health and counseling effectiveness as well as best practices for data collection, cleaning, processing, and analysis.
+Examine the use of machine learning techniques on datasets collected from wearable physiological sensors to identify the least invasive sensors that are most reliable in monitoring and predicting mental health and counseling outcomes as well as best practices for data collection, cleaning, and processing.

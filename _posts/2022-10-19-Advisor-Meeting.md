@@ -5,7 +5,10 @@
 **Overview:**  
 
 * Discussed progress made toward obtaining datasets.
-* Revised the survey paper outline.
+* Discussed the survey paper outline.
+    * Change citation format
+    * Revised outline topics and order
+    * Move outline onto template and share with Dr. Oteafy
 * Discussed the figure appearance.
 
 **Action Items:**

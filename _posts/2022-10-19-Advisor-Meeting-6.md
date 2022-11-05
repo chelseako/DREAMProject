@@ -1,7 +1,3 @@
-# Advisor Meeting
-
-## Date: October 19, 2022
-
 **Overview:**  
 
 * Discussed progress made toward obtaining datasets.

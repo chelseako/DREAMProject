@@ -1,12 +1,11 @@
 ---
 layout: default
 title: DREAM Project Site
+avatar: (/images/Chelsea_Ko.jpg)
 ---
 
 * TOC
 {:toc}
-
-![Profile picture](/images/ko3.png) 
 
 ## DREAM Project Information  
 

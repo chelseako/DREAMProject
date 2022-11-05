@@ -1,4 +1,4 @@
-![Profile Picutre](https://github.com/chelseako/DREAMProject/blob/master/images/Chelsea_Ko.jpg)
+![Profile Picutre](https://github.com/chelseako/DREAMProject/blob/master/images/ko3.png)
 
 ## DREAM Project Information  
 

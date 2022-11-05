@@ -1,5 +1,3 @@
-# Project Update
-
 ## Date: July 12, 2022
 
 **I reviewed survey and original research papers, which discussed:**

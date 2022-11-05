@@ -1,7 +1,3 @@
-# Advisor Meeting
-
-## Date: October 27, 2022
-
 **Overview:**  
 
 * Discussed submitting survey paper to the IEEE - ICCC Conference and/or special tracks

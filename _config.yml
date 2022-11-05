@@ -9,7 +9,7 @@ name: Chelsea Ko
 description: DREAM Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://chelseako.github.io/images/Chelsea_Ko.jpg
+avatar: (/images/Chelsea_Ko.jpg)
 
 #
 # Flags below are optional
@@ -68,7 +68,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - index.md
+  - Readme.md
   - CNAME
 
 theme: jekyll-theme-cayman

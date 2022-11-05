@@ -1,5 +1,3 @@
-## Date: July 12, 2022
-
 **I reviewed survey and original research papers, which discussed:**
 * Physiological indicators that are measured to detect stress, the devices used to measure them, and how the data are cleaned and processed to produce the outcome measures.
 * Behavioral indicators used to detect stress, such as audio/video speech and facial expression recordings, cell phone usage, or keystroke behavior.

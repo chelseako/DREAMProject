@@ -4,4 +4,4 @@ I met with my Research Mentor, Dr. Gabe Fierro, and my three other group members
 
 [Previous](https://chelseako.com/DREAMProject/Advisor-Meeting-1/) -- [Next](https://chelseako.com/DREAMProject/Project-Update-1/)
 
-[Home](https://chelseako.com/DREAMProject/blog/) 
+[Blog Home](https://chelseako.com/DREAMProject/blog/) 

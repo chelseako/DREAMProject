@@ -68,7 +68,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README.md
+  - index.md
   - CNAME
 
 theme: jekyll-theme-cayman

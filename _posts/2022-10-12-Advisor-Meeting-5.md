@@ -1,7 +1,3 @@
-# Advisor Meeting
-
-## Date: October 12, 2022
-
 **Overview:**  
 
 * Datasets:

@@ -25,6 +25,6 @@
 **Datasets Notes**
 * Many datasets are open and accessible. All publicly funded research datasets in the US and Canada are publicly available.
 
-[Next](https://chelseako.com/DREAMProject/Mentor-Group-Meeting/)
+<!--[Next](https://chelseako.com/DREAMProject/Mentor-Group-Meeting/)
 
-[Blog Home](https://chelseako.com/DREAMProject/blog/) 
+[Blog Home](https://chelseako.com/DREAMProject/blog/)-->

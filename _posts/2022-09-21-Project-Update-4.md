@@ -1,7 +1,3 @@
-# Project Update
-
-## Date: September 21, 2022
-
 **I took a closer look at:** 
 * How the therapeutic index is calculated
 * How physiological data is cleaned and processed

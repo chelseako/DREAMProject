@@ -18,10 +18,8 @@ Computing and Digital Media at DePaul University
 
 **Website:** http://www.soteafy.com  
 
-# My Blog
+# [My Blog](blog.html)
 
-## [My Blog](blog.html)
+# [Link to Project GitHub Repository](https://github.com/chelseako/DREAMProject)
 
-## [Link to Project GitHub Repository](https://github.com/chelseako/DREAMProject)
-
-## [Back to Chelsea Ko's Portfolio](https://chelseako.github.io/Portfolio/)
+# [Back to Chelsea Ko's Portfolio](https://chelseako.github.io/Portfolio/)

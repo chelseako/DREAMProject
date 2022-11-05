@@ -1,5 +1,3 @@
-# Research Advisor Meeting Notes
-
 ## Date: June 28, 2022
 
 **Plan:** Reviewed the difference between a survey paper and original research and decided to try to conduct original research with a final goal of a publication.  

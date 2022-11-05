@@ -1,7 +1,3 @@
-# Advisor Meeting
-
-## Date: October 5, 2022
-
 **Overview:**  
 
 * We reviewed my Github DREAM Project website and discussed modifications.

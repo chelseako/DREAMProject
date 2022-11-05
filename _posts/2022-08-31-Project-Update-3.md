@@ -1,7 +1,3 @@
-# Project Update
-
-## Date: August 31, 2022
-
 **Notes:**
 
 I received some feedback from my colleagues, who said that evaluating effectiveness would be helpful in their work to justify the cost of therapy, should their insurance not cover it. Another colleague stated the patients would likely be more willing to participate if the sensor/wristband was provided to them for free.

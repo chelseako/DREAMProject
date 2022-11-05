@@ -1,14 +1,14 @@
-![Profile Picture](/images/ko3.png)
+![Profile Picture](/images/dream.png)
 
-## DREAM Project Information  
+# Project Overview  
 
-### Main Project Goal  
+## Main Project Goal  
 
 This project aims to identify wearable sensors that provide the most insight into a patient’s stress levels, with the least invasive approach possible. We aim to develop a framework in which machine learning techniques can quantify the impact that different sensors have on determining stress levels (e.g. heart rate variability, heart rate, and galvanic response), and help practitioners select the most suitable set of sensors they can recommend for their patients undergoing therapy. This framework shall also identify best practices for data collection, cleaning, and processing.
 
-[My Final Report](files/finalreport.pdf)
+## [My Final Report](files/finalreport.pdf)
 
-## Research Advisor's Information  
+# Research Advisor's Information  
 
 **Dr. Sharief Oteafy**  
 School of Computing  
@@ -18,10 +18,10 @@ Computing and Digital Media at DePaul University
 
 **Website:** http://www.soteafy.com  
 
-## My Blog
+# My Blog
 
-[My Blog](blog.html)
+## [My Blog](blog.html)
 
-### [Link to Project GitHub Repository](https://github.com/chelseako/DREAMProject)
+## [Link to Project GitHub Repository](https://github.com/chelseako/DREAMProject)
 
-### [Back to Chelsea Ko's Portfolio](https://chelseako.github.io/Portfolio/)
+## [Back to Chelsea Ko's Portfolio](https://chelseako.github.io/Portfolio/)

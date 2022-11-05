@@ -1,11 +1,4 @@
----
-layout: default
-title: DREAM Project Site
-avatar: (/images/Chelsea_Ko.jpg)
----
-
-* TOC
-{:toc}
+![Profile Picutre](https://github.com/chelseako/DREAMProject/blob/master/images/Chelsea_Ko.jpg)
 
 ## DREAM Project Information  
 

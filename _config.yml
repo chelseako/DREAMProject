@@ -11,7 +11,7 @@ title: null
 description: DREAM Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: (/images/Chelsea_Ko.jpg)
+avatar: (/images/small.png)
 
 #
 # Flags below are optional
@@ -21,6 +21,7 @@ avatar: (/images/Chelsea_Ko.jpg)
 footer-links:
   dribbble:
   email: ko.chelsea.m@gmail.com
+  linkedin: www.linkedin.com/in/chelsea-m-ko
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon

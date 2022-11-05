@@ -1,7 +1,3 @@
-# Advisor Meeting
-
-## Date: September 7, 2022
-
 **Overview:**
 
 * I prepared and presented a deck on the literature I reviewed since our last meeting, including an overview of the survey paper on the social brain and heart rate variability and their implications for psychotherapy. 

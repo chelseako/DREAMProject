@@ -1,7 +1,3 @@
-# Advisor Meeting
-
-## Date: August 17, 2022
-
 **Notes:**
 
 * I prepared and presented a deck on the literature I reviewed thus far on stress detection sensors, scales, and datasets.

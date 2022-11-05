@@ -10,6 +10,6 @@
 2. Determine top 1-2 sensor devices
 3. Contact psychologists/therapists/counselors to determine if project would be useful
 
-[Previous](https://chelseako.com/DREAMProject/Project-Update-2/) -- [Next](https://chelseako.com/DREAMProject/Project-Update-3/)
+<!--[Previous](https://chelseako.com/DREAMProject/Project-Update-2/) -- [Next](https://chelseako.com/DREAMProject/Project-Update-3/)
 
-[Home](https://chelseako.com/DREAMProject/blog/) 
+[Home](https://chelseako.com/DREAMProject/blog/)-->

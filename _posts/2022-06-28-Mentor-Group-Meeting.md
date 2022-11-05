@@ -1,5 +1,3 @@
-# Mentor Group Meeting
-
 ## Date: June 28, 2022
 
 **Notes**  

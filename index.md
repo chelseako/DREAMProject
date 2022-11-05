@@ -21,3 +21,7 @@ Computing and Digital Media at DePaul University
 ## My Blog
 
 [My Blog](blog.html)
+
+### [Link to Project GitHub Repository](https://github.com/chelseako/DREAMProject)
+
+### [Back to Chelsea Ko's Portfolio](https://chelseako.github.io/Portfolio/)

@@ -15,10 +15,8 @@ Computing and Digital Media at DePaul University
 ## Main Project Goal  
 
 This project aims to identify wearable sensors that provide the most insight into a patient’s stress levels, with the least invasive approach possible. We aim to develop a framework in which machine learning techniques can quantify the impact that different sensors have on determining stress levels (e.g. heart rate variability, heart rate, and galvanic response), and help practitioners select the most suitable set of sensors they can recommend for their patients undergoing therapy. This framework shall also identify best practices for data collection, cleaning, and processing.
-
-## [My Final Report](files/finalreport.pdf)
-
-## [My Blog](blog.html)
+//## [My Final Report](files/finalreport.pdf)
+//## [My Blog](blog.html)
 
 ## [Link to Project GitHub Repository](https://github.com/chelseako/DREAMProject)
 

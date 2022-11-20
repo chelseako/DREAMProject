@@ -11,8 +11,5 @@
 
 # Action Items:
 
-## Chelsea
-* Finish survey paper by COB Thursday and email Dr. Oteafy.
-
-## Dr. Oteafy
-* Review, edit, finalize, and submit paper.
+* Chelsea - Finish survey paper by COB Thursday and email Dr. Oteafy.
+* Dr. Oteafy - Review, edit, finalize, and submit paper.

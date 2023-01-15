@@ -8,7 +8,7 @@ Computing and Digital Media at DePaul University
 
 **Research Areas:** Telecommunication & Networking, Internet of Things, Tactile Internet  
 
-[**Website:**](http://www.soteafy.com)
+[**Link to Dr. Oteafy's Website**](http://www.soteafy.com)
 
 # Project Information  
 
